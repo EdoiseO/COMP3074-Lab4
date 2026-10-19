@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+.idea/
+local.properties
+.DS_Store
+**/build/
+.cxx/
+.externalNativeBuild/
+*.apk
+*.aab
+*.zip
+*.mp4
+*.mov
+*.md
+!/README.md
+/docs/
+/outputs/
